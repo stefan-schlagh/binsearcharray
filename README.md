@@ -2,6 +2,15 @@
 
 a Array which can be used for storing key - value pairs
 
+## Repository
+[github](https://github.com/stefan-schlagh/binsearcharray)
+
+## install
+```
+npm install binsearcharray
+
+```
+
 ## require the package
 ```javascript
 const Binsearcharray = require('binsearcharray');
