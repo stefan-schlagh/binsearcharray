@@ -43,6 +43,6 @@ arr.get(1);
 the value at this key gets removed
 
 ```javascript
-arr.get(1);
+arr.remove(1);
 
 ```
