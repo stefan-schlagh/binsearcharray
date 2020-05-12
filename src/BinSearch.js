@@ -1,5 +1,5 @@
 
-module.exports = class BinSearchArray extends Array{
+class BinSearchArray extends Array{
 
     getIndex(key){
 
@@ -66,3 +66,5 @@ module.exports = class BinSearchArray extends Array{
             this.splice(i,1);
     }
 }
+
+module.exports = BinSearchArray;
